@@ -1,2 +1,2 @@
-# -QuickChat.app
+# QuickChat.app
 QuickChat application
